@@ -30,6 +30,11 @@ Preview if needed
 
 Click "Print"
 
+## 🖼️ Preview
+
+![Thermal Printer App Preview](thermalPrinter.png)
+
+
 Perfect for POS systems, receipt printers, ticket printing, and other thermal printer use cases.
 
 Note: Requires compatible thermal printer with ESC/POS support.
